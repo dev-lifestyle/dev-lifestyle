@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm a Modern Dev! 👋
 
-<!--
-**dev-lifestyle/dev-lifestyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my daily tech playground. I write code, break servers, and look for bugs that probably don't want to be found. 
 
-Here are some ideas to get you started:
+### ⚡ What I'm Vibe-Coding Today:
+* 💻 Writing clean code (and deploying on Fridays)
+* ☕ Converting high-quality caffeine into software errors
+* 🛠️ Debugging with hope as my main strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 MY DAILY WORKSTATION VIBES
+Are you even a real developer if you aren't wearing your coding anxiety on your chest? Check out what I wear during my weekend server meltdowns:
+
+👉 **[Get the Ultimate Programmer Apparel Here!](https://www.teepublic.com/lic/20KErMsredA)** 🚀
+
+---
+
+### 📊 Tech Stack & Statistics:
+dev-lifestyle(https://vercel.app)
