@@ -1,20 +1,18 @@
-# Hi there, I'm a Modern Dev! 👋
+# Modern Developer Lifestyle! 👋
 
-Welcome to my daily tech playground. I write code, break servers, and look for bugs that probably don't want to be found. 
+Welcome to my daily tech playground. I write code, break servers, and hunt bugs that probably don't want to be found.
 
-### ⚡ What I'm Vibe-Coding Today:
+## ⚡ What I'm Vibe-Coding Today:
 * 💻 Writing clean code (and deploying on Fridays)
-* ☕ Converting high-quality caffeine into software errors
+* ☕ Converting high-quality caffeine into software bugs
 * 🛠️ Debugging with hope as my main strategy
 
----
+## 🔥 MY DAILY WORKSPACE VIBE
+Are you even a real developer if you don't wear your programming anxiety on your chest? Check out what I wear during my weekend server crises:
 
-## 🔥 MY DAILY WORKSTATION VIBES
-Are you even a real developer if you aren't wearing your coding anxiety on your chest? Check out what I wear during my weekend server meltdowns:
+👉 **[Get the Best Developer Apparel Here! 🚀](https://teepublic.com)**
 
-👉 **[Get the Ultimate Programmer Apparel Here!](https://www.teepublic.com/lic/20KErMsredA)** 🚀
+## 📊 Tech Stack & Stats:
+* 🛠️ Languages: JavaScript, Python, Rust, Go
+* 🚀 Shell: Zsh / Oh-My-Zsh with Powerlevel10k
 
----
-
-### 📊 Tech Stack & Statistics:
-dev-lifestyle(https://vercel.app)
