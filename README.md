@@ -10,7 +10,7 @@ Welcome to my daily tech playground. I write code, break servers, and hunt bugs 
 ## 🔥 MY DAILY WORKSPACE VIBE
 Are you even a real developer if you don't wear your programming anxiety on your chest? Check out what I wear during my weekend server crises:
 
-👉 **[Get the Best Developer Apparel Here! 🚀](https://teepublic.com)**
+👉 **[Get the Best Developer Apparel Here! 🚀](https://www.teepublic.com/lic/20KErMsredA)**
 
 ## 📊 Tech Stack & Stats:
 * 🛠️ Languages: JavaScript, Python, Rust, Go
