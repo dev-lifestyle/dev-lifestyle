@@ -1,18 +1,29 @@
-# Modern Developer Lifestyle! 👋
+# Hi there, I'm a Software Engineer Deciphering Reality 👋
 
-Welcome to my daily tech playground. I write code, break servers, and hunt bugs that probably don't want to be found.
+Welcome to my profile. I'm a developer focused on modern architecture, clean code, and surviving the daily chaotic realities of tech debt and production deployments. 
 
-## ⚡ What I'm Vibe-Coding Today:
-* 💻 Writing clean code (and deploying on Fridays)
-* ☕ Converting high-quality caffeine into software bugs
-* 🛠️ Debugging with hope as my main strategy
+## 👕 Tech Culture & Dev Lifestyle Gear
+If you survive the matrix daily, wear your badge of honor. High-quality prints for engineers, devops, and tech enthusiasts.
 
-## 🔥 MY DAILY WORKSPACE VIBE
-Are you even a real developer if you don't wear your programming anxiety on your chest? Check out what I wear during my weekend server crises:
+| Senior Vibe Coder (Hot!) | I Read Legacy Code (New) | Merge Conflict Expert (New) |
+| :---: | :---: | :---: |
+| [![Senior Vibe Coder](https://shields.io)](https://www.teepublic.com/t-shirt/100548525-senior-vibe-coder-no-specs-pure-vibes-developer?store_id=4645219) | [![Legacy Code](https://shields.io)](https://www.teepublic.com/t-shirt/100605277-i-read-legacy-code-funny-it-programmer?store_id=4645219) | [![Merge Conflict](https://shields.io)](https://www.teepublic.com/t-shirt/100605509-merge-conflict-expert-funny-git-programmer?store_id=4645219) |
 
-👉 **[Get the Best Developer Apparel Here! 🚀](https://www.teepublic.com/lic/20KErMsredA)**
+*⚡ [Click here to visit the full Dev Lifestyle Store on TeePublic](https://www.teepublic.com/lic/20KErMsredA)*
 
-## 📊 Tech Stack & Stats:
-* 🛠️ Languages: JavaScript, Python, Rust, Go
-* 🚀 Shell: Zsh / Oh-My-Zsh with Powerlevel10k
+---
+
+## 🛠️ Current Tech Stack & Experiments
+- **Vibe Coding & AI Orchestration:** Prompt engineering, LLM fine-tuning scripts, and automated workflows.
+- **System Architecture:** High-load microservices, legacy codebase modernizations, and API design.
+- **Git & Automation:** Complex CI/CD pipelines, branch management, and infrastructure as code.
+
+## 📊 Weekly Dev Reality Check
+- **Current Mood:** Resolving a 47-file merge conflict.
+- **Coffee to Code Ratio:** Dangerous.
+- **Lines of Legacy Code Read Today:** Too many.
+
+---
+*Feel free to explore my repositories. If you find value or share the pain, star the repos or drop a comment on my Dev.to posts!*
+
 
