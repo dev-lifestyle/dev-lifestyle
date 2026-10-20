@@ -5,9 +5,9 @@ Welcome to my profile. I'm a developer focused on modern architecture, clean cod
 ## 👕 Tech Culture & Dev Lifestyle Gear
 If you survive the matrix daily, wear your badge of honor. High-quality prints for engineers, devops, and tech enthusiasts.
 
-| Senior Vibe Coder (Hot!) | I Read Legacy Code (New) | Merge Conflict Expert (New) |
-| :---: | :---: | :---: |
-| [![Senior Vibe Coder](https://shields.io)](https://www.teepublic.com/t-shirt/100548525-senior-vibe-coder-no-specs-pure-vibes-developer?store_id=4645219) | [![Legacy Code](https://shields.io)](https://www.teepublic.com/t-shirt/100605277-i-read-legacy-code-funny-it-programmer?store_id=4645219) | [![Merge Conflict](https://shields.io)](https://www.teepublic.com/t-shirt/100605509-merge-conflict-expert-funny-git-programmer?store_id=4645219) |
+* 🟢 **[HOT] Senior Vibe Coder** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100548525-senior-vibe-coder-no-specs-pure-vibes-developer?store_id=4645219)
+* 🔴 **[NEW] I Read Legacy Code** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100605277-i-read-legacy-code-funny-it-programmer?store_id=4645219)
+* 🔵 **[NEW] Merge Conflict Expert** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100605509-merge-conflict-expert-funny-git-programmer?store_id=4645219)
 
 *⚡ [Click here to visit the full Dev Lifestyle Store on TeePublic](https://www.teepublic.com/lic/20KErMsredA)*
 
@@ -25,5 +25,3 @@ If you survive the matrix daily, wear your badge of honor. High-quality prints f
 
 ---
 *Feel free to explore my repositories. If you find value or share the pain, star the repos or drop a comment on my Dev.to posts!*
-
-
