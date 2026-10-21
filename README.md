@@ -8,6 +8,8 @@ If you survive the matrix daily, wear your badge of honor. High-quality prints f
 * 🟢 **[HOT] Senior Vibe Coder** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100548525-senior-vibe-coder-no-specs-pure-vibes-developer?store_id=4645219)
 * 🔴 **[NEW] I Read Legacy Code** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100605277-i-read-legacy-code-funny-it-programmer?store_id=4645219)
 * 🔵 **[NEW] Merge Conflict Expert** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100605509-merge-conflict-expert-funny-git-programmer?store_id=4645219)
+* 🟡 **[NEW] Prompt Engineer in Denial** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100659669-prompt-engineer-in-denial-funny-ai-programmer)
+* 🟠 **[NEW] Friday Production Deploy** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100659907-deployed-to-production-on-a-friday-funny-it)
 
 *⚡ [Click here to visit the full Dev Lifestyle Store on TeePublic](https://www.teepublic.com/lic/20KErMsredA)*
 
