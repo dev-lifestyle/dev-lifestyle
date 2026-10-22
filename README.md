@@ -10,6 +10,8 @@ If you survive the matrix daily, wear your badge of honor. High-quality prints f
 * 🔵 **[NEW] Merge Conflict Expert** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100605509-merge-conflict-expert-funny-git-programmer?store_id=4645219)
 * 🟡 **[NEW] Prompt Engineer in Denial** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100659669-prompt-engineer-in-denial-funny-ai-programmer)
 * 🟠 **[NEW] Friday Production Deploy** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100659907-deployed-to-production-on-a-friday-funny-it)
+* 🟤 **[NEW] Code Rewrite Fantasy** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100710619-dont-refactor-just-rewrite-it-funny-programmer)
+* ⚪ **[NEW] Light Mode Criminal** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100711074-i-code-in-light-mode-funny-programmer-ide)
 
 *⚡ [Click here to visit the full Dev Lifestyle Store on TeePublic](https://www.teepublic.com/lic/20KErMsredA)*
 
