@@ -14,6 +14,8 @@ If you survive the matrix daily, wear your badge of honor. High-quality prints f
 * ⚪ **[NEW] Light Mode Criminal** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100711074-i-code-in-light-mode-funny-programmer-ide)
 * 💻 **[NEW] Localhost Machine Legend** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100765167-it-works-on-my-local-machine-funny-backend-program)
 * 🔍 **[NEW] Senior StackOverflow Researcher** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100765544-senior-stack-overflow-researcher-funny-programmer)
+<li>🟢 <a href=https://www.teepublic.com/t-shirt/100815425-ai-slop-engineer-funny-spotify-developer>[NEW] AI Slop Engineer</a></li>
+<li>🔴 <a href=https://www.teepublic.com/t-shirt/100815593-github-opt-out-microsoft-ai-training-data>[NEW] GitHub Data Opt-Out</a></li>
 
 *⚡ [Click here to visit the full Dev Lifestyle Store on TeePublic](https://www.teepublic.com/lic/20KErMsredA)*
 
