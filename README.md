@@ -16,6 +16,8 @@ If you survive the matrix daily, wear your badge of honor. High-quality prints f
 * 🔍 **[NEW] Senior StackOverflow Researcher** -> [Get it on TeePublic](https://www.teepublic.com/t-shirt/100765544-senior-stack-overflow-researcher-funny-programmer)
 <li>🟢 <a href=https://www.teepublic.com/t-shirt/100815425-ai-slop-engineer-funny-spotify-developer>[NEW] AI Slop Engineer</a></li>
 <li>🔴 <a href=https://www.teepublic.com/t-shirt/100815593-github-opt-out-microsoft-ai-training-data>[NEW] GitHub Data Opt-Out</a></li>
+<li>🟢 <a href=https://www.teepublic.com/t-shirt/100859753-anthropic-mcp-architect-model-context-protocol>[NEW] Anthropic MCP Architect Gear</a></li>
+<li>🔴 <a href=https://www.teepublic.com/t-shirt/100859921-senior-vibe-engineer-funny-ai-coding-meme>[NEW] Senior Vibe Engineer Apparel</a></li>
 
 *⚡ [Click here to visit the full Dev Lifestyle Store on TeePublic](https://www.teepublic.com/lic/20KErMsredA)*
 
