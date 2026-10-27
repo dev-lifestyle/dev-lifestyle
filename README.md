@@ -20,6 +20,8 @@ If you survive the matrix daily, wear your badge of honor. High-quality prints f
 <li>🔴 <a href=https://www.teepublic.com/t-shirt/100859921-senior-vibe-engineer-funny-ai-coding-meme>[NEW] Senior Vibe Engineer Apparel</a></li>
 <li>🟢 <a href=https://www.teepublic.com/t-shirt/100904089-legacy-code-nightmare-funny-coder>[NEW] Legacy Code Nightmare Gear</a></li>
 <li>🔴 <a href=https://www.teepublic.com/t-shirt/100904777-local-environment-king-funny-production-developer>[NEW] Local Environment King Apparel</a></li>
+<li>🟢 <a href=https://www.teepublic.com/t-shirt/100960052-senior-spaghetti-architect-funny-developer>[NEW] Spaghetti Architecture Gear</a></li>
+<li>🔴 <a href=https://www.teepublic.com/t-shirt/100960347-the-code-is-the-documentation-funny-programmer>[NEW] No Documentation King Apparel</a></li>
 
 *⚡ [Click here to visit the full Dev Lifestyle Store on TeePublic](https://www.teepublic.com/lic/20KErMsredA)*
 
