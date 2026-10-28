@@ -22,6 +22,8 @@ If you survive the matrix daily, wear your badge of honor. High-quality prints f
 <li>🔴 <a href=https://www.teepublic.com/t-shirt/100904777-local-environment-king-funny-production-developer>[NEW] Local Environment King Apparel</a></li>
 <li>🟢 <a href=https://www.teepublic.com/t-shirt/100960052-senior-spaghetti-architect-funny-developer>[NEW] Spaghetti Architecture Gear</a></li>
 <li>🔴 <a href=https://www.teepublic.com/t-shirt/100960347-the-code-is-the-documentation-funny-programmer>[NEW] No Documentation King Apparel</a></li>
+<li>🟢 <a href=https://www.teepublic.com/t-shirt/101015679-junior-ai-copilot-funny-developer>[NEW] Junior AI Copilot Gear</a></li>
+<li>🔴 <a href=https://www.teepublic.com/t-shirt/101015986-git-push-production-funny-devops-coder>[NEW] Git Push Production Apparel</a></li>
 
 *⚡ [Click here to visit the full Dev Lifestyle Store on TeePublic](https://www.teepublic.com/lic/20KErMsredA)*
 
