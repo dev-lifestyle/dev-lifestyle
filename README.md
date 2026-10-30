@@ -26,6 +26,8 @@ If you survive the matrix daily, wear your badge of honor. High-quality prints f
 <li>🔴 <a href=https://www.teepublic.com/t-shirt/101015986-git-push-production-funny-devops-coder>[NEW] Git Push Production Apparel</a></li>
 <li>🟢 <a href=https://www.teepublic.com/t-shirt/101063743-survived-another-useless-meeting-corporate-humor>[NEW] I Survived Another Meeting That Should Have Been An Email T-Shirt</a></li>
 <li>🟢 <a href=https://www.teepublic.com/t-shirt/101067020-lgtm-funny-software-engineer-code-review>[NEW] LGTM - Looks Good To Me But I Did Not Review It Tech Tee</a></li>
+<li>🟢 <a href=https://www.teepublic.com/t-shirt/101120170-it-works-on-my-machine-production-dev-humor>[NEW] It Works On My Machine But In Production Now Tee</a></li>
+<li>🟢 <a href=https://www.teepublic.com/t-shirt/101120857-prompt-engineering-funny-ai-slop-developer>[NEW] Prompt Engineering Is Just Asking The AI Tech Shirt</a></li>
 
 *⚡ [Click here to visit the full Dev Lifestyle Store on TeePublic](https://www.teepublic.com/lic/20KErMsredA)*
 
