@@ -30,6 +30,8 @@ If you survive the matrix daily, wear your badge of honor. High-quality prints f
 <li>🟢 <a href=https://www.teepublic.com/t-shirt/101120857-prompt-engineering-funny-ai-slop-developer>[NEW] Prompt Engineering Is Just Asking The AI Tech Shirt</a></li>
 <li>🟢 <a href=https://www.teepublic.com/t-shirt/101164970-senior-developer-architectural-mysteries-funny-tec>[NEW] Senior Developer Architectural Mysteries T-Shirt</a></li>
 <li>🟢 <a href=https://www.teepublic.com/t-shirt/101165271-git-merge-conflict-funny-programmer-code-humor>[NEW] Git Merge Conflict Team Communication Tech Tee</a></li>
+<li>🟢 <a href=https://www.teepublic.com/t-shirt/101205461-documentation-written-in-my-head-funny-programmer>[NEW] Documentation Written In My Head Tech Shirt</a></li>
+<li>🟢 <a href=https://www.teepublic.com/t-shirt/101205724-on-call-duty-production-nightmare-tech-humor>[NEW] On Call Duty Production Nightmare DevOps Tee</a></li>
 
 *⚡ [Click here to visit the full Dev Lifestyle Store on TeePublic](https://www.teepublic.com/lic/20KErMsredA)*
 
